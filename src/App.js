@@ -5,7 +5,7 @@ import React, { Component } from 'react'
 import News from './components/News';
 import LoadingBar from 'react-top-loading-bar'
 import {
-  BrowserRouter as Router,
+  HashRouter as Router,
   Switch,
   Route,
 
